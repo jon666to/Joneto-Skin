@@ -10,7 +10,9 @@ Let me know if there are any missing skins.
 <p align="center">From the newest to oldest</p>
 
 # [⌜ ◤◥ ⌟ (Circle & Arrow)](https://x.com/jonetoooooooo/status/1792963566649352341)
-<p this is my last skin, im quit>
+<p>
+   this is my last skin, im quit
+</p>
 # [S ♡ B E R (Circle)](https://www.mediafire.com/file/9xf8gs1y2iar9co/%25E2%2588%2598_S_%25E2%2599%25A1_B_E_R_%25E2%2588%2598.osk/file)
 <p float="left">
   <img src="https://media.discordapp.net/attachments/1176554479039037581/1176560514462122117/screenshot6492.jpg?ex=656f505e&is=655cdb5e&hm=021135ddc1bb67837f26f16465ddd7ded89abd6b867e21849aa88733de3c9c5f&=&width=1177&height=662" width="500" />
