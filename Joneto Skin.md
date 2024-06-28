@@ -24,42 +24,42 @@ Let me know if there are any missing skins.
 </p>
 <br>
 
-<h1 align="center">⌜Stargvze⌟ ⌈v2⌋</h1>
+<h1 align="center">----------------------> ⌜Stargvze⌟ ⌈v2⌋ <----------------------</h1>
 <h4 align="center">Circle, Arrow & Bar</h4>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=X3XehqX7Epg&t=16s">Link</a>
 </p>
 <br>
 
-<h1 align="center">⌜ ◤◥ ⌟</h1>
+<h1 align="center">----------------------> ⌜ ◤◥ ⌟ <----------------------</h1>
 <h4 align="center">Circle & Arrow</h4>
 <p align="center">
 <a href="https://x.com/jonetoooooooo/status/1792963566649352341">Link</a>
 </p>
 <br>
 
-<h1 align="center">S ♡ B E R</h1>
+<h1 align="center">----------------------> S ♡ B E R <----------------------</h1>
 <h4 align="center">Circle</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/9xf8gs1y2iar9co/%25E2%2588%2598_S_%25E2%2599%25A1_B_E_R_%25E2%2588%2598.osk/file">Link</a>
 </p>
 <br>
 
-<h1 align="center">Stvrgaze ⌈v1⌋</h1>
+<h1 align="center">----------------------> Stvrgaze ⌈v1⌋ <----------------------</h1>
 <h4 align="center">Arrow</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/vf02fm6jiy8odxp/-_Stargvze.osk/file">Link</a>
 </p>
 <br>
 
-<h1 align="center">Animated Playfield (Shooting star)</h1>
+<h1 align="center">----------------------> Animated Playfield (Shooting star) <----------------------</h1>
 <h4 align="center">Circle</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/9isctxxh91eobgw/Stargaze_Playfield.osk/file">Link</a>
 </p>
 <br>
 
-<h1 align="center">gugigagu V2</h1>
+<h1 align="center">----------------------> gugigagu V2 <----------------------</h1>
 <h4 align="center">Circle & Arrow</h4>
 <p align="center">
   I know, the arrows is awful <br>
@@ -68,7 +68,7 @@ Let me know if there are any missing skins.
 </p>
 <br>
 
-<h1 align="center">gugigagu V1</h1>
+<h1 align="center">----------------------> gugigagu V1 <----------------------</h1>
 <h4 align="center">Circle & Arrow</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file">Link</a>
