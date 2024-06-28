@@ -9,9 +9,9 @@ Let me know if there are any missing skins.
 <h1 align="center">Normal Skin</h1>
 <p align="center">From the newest to oldest</p>
 
+# ['⌜Stargvze⌟ ⌈v2⌋(Circle, Arrow & Bar)](https://www.youtube.com/watch?v=X3XehqX7Epg&t=16s)
 # [⌜ ◤◥ ⌟ (Circle & Arrow)](https://x.com/jonetoooooooo/status/1792963566649352341)
 <p>
-   this is my last skin, im quit
 </p>
 # [S ♡ B E R (Circle)](https://www.mediafire.com/file/9xf8gs1y2iar9co/%25E2%2588%2598_S_%25E2%2599%25A1_B_E_R_%25E2%2588%2598.osk/file).
 <p float="left">
