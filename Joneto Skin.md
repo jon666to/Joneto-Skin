@@ -17,7 +17,8 @@ Let me know if there are any missing skins.
 <p align="center">
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
 </p>
-<p align="center">Normal Skin<br>From the newest to oldest</p>
+<h1 align="center">Normal Skin</h1><br>
+<p align="center">From the Newest to Oldest</p>
 <p align="center">
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
 </p>
@@ -80,9 +81,11 @@ Let me know if there are any missing skins.
 <p align="center">
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
 </p>
-<h1 align="center">Experimental Skin<br>I didn't know the order, so I just threw randomly</h1>
+<h1 align="center">Experimental Skin</h1><br>
+<p align="center">I didn't know the order, so I just threw randomly</p>
 <p align="center">
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
+</p>
 
 # [Spinning L](https://www.mediafire.com/file/5oli0zaip84acgm/%2528Spinning_L%2529.osk/file)
 https://github.com/jon666to/Test/assets/74059843/aa380870-8d0a-49b6-b4c9-b098d0858a81
