@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
 
 <h1 align="center">Welcome to Jon's Skin Collection</h1>
 <p align="center">
