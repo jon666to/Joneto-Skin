@@ -80,7 +80,7 @@ Let me know if there are any missing skins.
 <p align="center">
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
 </p>
-<p align="center">Experimental Skin<br>I didn't know the order, so I just threw randomly</p>
+<h1 align="center">Experimental Skin<br>I didn't know the order, so I just threw randomly</h1>
 <p align="center">
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
 
