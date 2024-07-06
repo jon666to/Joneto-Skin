@@ -24,42 +24,53 @@ Let me know if there are any missing skins.
 </p>
 <br>
 
-<h1 align="center">----------------------> ⌜Stargvze⌟ ⌈v2⌋ <----------------------</h1>
+<h1 align="center">------> ⌜Stargvze⌟ ⌈v2⌋ <------</h1>
 <h4 align="center">Circle, Arrow & Bar</h4>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=X3XehqX7Epg&t=16s">Link</a>
+<a href="https://www.youtube.com/watch?v=X3XehqX7Epg&t=16s">Link Download & Preview</a>
 </p>
 <br>
 
-<h1 align="center">----------------------> ⌜ ◤◥ ⌟ <----------------------</h1>
+<h1 align="center">------> ⌜ ◤◥ ⌟  <------</h1>
 <h4 align="center">Circle & Arrow</h4>
 <p align="center">
-<a href="https://x.com/jonetoooooooo/status/1792963566649352341">Link</a>
+<a href="https://x.com/jonetoooooooo/status/1792963566649352341">Link Download & Preview</a>
 </p>
 <br>
 
-<h1 align="center">----------------------> S ♡ B E R <----------------------</h1>
+<h1 align="center">------> Yokina ¦ 陽気 ⌈All Modes⌋ - ⌈HD + SD⌋ <------</h1>
+<h4 align="center">All Modes Skin</h4>
+<p align="center">
+<a href="https://osu.ppy.sh/community/forums/topics/1878404?n=1">Link Download & Preview</a>
+</p>
+<br>
+
+<h1 align="center">------> S ♡ B E R <------</h1>
+<a href="https://imgbox.com/Bve2XF4l" target="_blank"><img src="https://images2.imgbox.com/1d/e9/Bve2XF4l_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/1LZfqp0C" target="_blank"><img src="https://images2.imgbox.com/5c/1c/1LZfqp0C_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/i1DJCCzy" target="_blank"><img src="https://images2.imgbox.com/13/5f/i1DJCCzy_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/P2o13nDZ" target="_blank"><img src="https://images2.imgbox.com/3e/00/P2o13nDZ_o.jpg" width="50%" height="50%" alt="image host"/></a>
 <h4 align="center">Circle</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/9xf8gs1y2iar9co/%25E2%2588%2598_S_%25E2%2599%25A1_B_E_R_%25E2%2588%2598.osk/file">Link</a>
 </p>
+    
 <br>
 
-<h1 align="center">----------------------> Stvrgaze ⌈v1⌋ <----------------------</h1>
+<h1 align="center">------> Stvrgaze ⌈v1⌋ <------</h1>
+<a href="https://imgbox.com/VHYx1grk" target="_blank"><img src="https://images2.imgbox.com/d5/32/VHYx1grk_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/81kP9izB" target="_blank"><img src="https://images2.imgbox.com/53/30/81kP9izB_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/VQ6ryKyx" target="_blank"><img src="https://images2.imgbox.com/57/6e/VQ6ryKyx_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/JdZQsrn8" target="_blank"><img src="https://images2.imgbox.com/30/d9/JdZQsrn8_o.jpg" width="50%" height="50%" alt="image host"/></a>
 <h4 align="center">Arrow</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/vf02fm6jiy8odxp/-_Stargvze.osk/file">Link</a>
 </p>
 <br>
 
-<h1 align="center">----------------------> Animated Playfield (Shooting star) <----------------------</h1>
+<h1 align="center">------> Animated Playfield (Shooting star) <------</h1>
+<a href="https://imgbox.com/psFKbYDs" target="_blank"><img src="https://images2.imgbox.com/3c/3e/psFKbYDs_o.jpg" alt="image host"/></a>
 <h4 align="center">Circle</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/9isctxxh91eobgw/Stargaze_Playfield.osk/file">Link</a>
 </p>
 <br>
 
-<h1 align="center">----------------------> gugigagu V2 <----------------------</h1>
+<h1 align="center">------> gugigagu V2 <------</h1>
 <h4 align="center">Circle & Arrow</h4>
 <p align="center">
   I know, the arrows is awful <br>
@@ -68,7 +79,8 @@ Let me know if there are any missing skins.
 </p>
 <br>
 
-<h1 align="center">----------------------> gugigagu V1 <----------------------</h1>
+<h1 align="center">------> gugigagu V1 <------</h1>
+<a href="https://imgbox.com/3WLW4o5N" target="_blank"><img src="https://images2.imgbox.com/a6/b1/3WLW4o5N_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/5YpFpMFt" target="_blank"><img src="https://images2.imgbox.com/0b/e4/5YpFpMFt_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/w5QzCYej" target="_blank"><img src="https://images2.imgbox.com/1a/39/w5QzCYej_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/fFlIz8XA" target="_blank"><img src="https://images2.imgbox.com/62/8e/fFlIz8XA_o.jpg" width="50%" height="50%" alt="image host"/></a>
 <h4 align="center">Circle & Arrow</h4>
 <p align="center">
 <a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file">Link</a>
@@ -103,9 +115,7 @@ https://github.com/jon666to/Test/assets/74059843/00487bfe-e157-4499-9d0b-5e94c9d
 https://github.com/jon666to/Test/assets/74059843/4ee1ae3e-e88f-4044-a2fd-1b1a35751eb5
 
 # [Staircase (circle)](https://drive.google.com/file/d/1UqQsIArLZMKG_tN_CL70rqESm2ouxqqO/view?usp=sharing)
+![screenshot450](https://github.com/jon666to/Joneto-Skin/assets/74059843/48488fa4-7b66-4857-919c-d6e6731a549a)
   <p align="center">
     From Jhleetgirl's video "[osu!mania4K] The Funniest Skin EVER"
-    <img src="https://cdn.discordapp.com/attachments/1176554479039037581/1176577498285363373/image.png?ex=656f602f&is=655ceb2f&hm=10921f37935cb4c183ac7ac2591022f77622925d96c891f84e431c1a7aa0aed9&">
   </p>
-
-
