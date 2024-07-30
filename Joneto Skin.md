@@ -23,6 +23,12 @@ Let me know if there are any missing skins.
   ---------------------------------------- + ---------------------------------------- + ----------------------------------------
 </p>
 <br>
+<h1 align="center">------> ⌜Ellen Joe⌟ ⌈v2⌋ <------</h1>
+<h4 align="center">Standard & Mania</h4>
+<p align="center">
+<a href="https://osuck.link/s-3847?v=0">Link Download & Preview</a>
+</p>
+<br>
 
 <h1 align="center">------> ⌜Stargvze⌟ ⌈v2⌋ <------</h1>
 <h4 align="center">Circle, Arrow & Bar</h4>
