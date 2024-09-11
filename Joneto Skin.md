@@ -1,109 +1,86 @@
-<h1 align="center">Welcome to Jon's Skin Collection</h1>
-
+<img src="https://images2.imgbox.com/42/71/eQYTmkBI_o.png" alt="image host"/>
 <p align="center"> 
-All my osu!mania skin I've ever made
-From the normal one to the weirdest shit one<br>
-Let me know if there are any missing skins.
-(I've made too many skin experiments, so I'm lazy zzz)
-</p>
-<br>
-<br>
-<h3 align="center">Social Media</h3>
+    <img src="https://images2.imgbox.com/51/99/hrlvaHPI_o.png" alt="image host"/>
+
+<img src="https://images2.imgbox.com/27/ad/owGENG2K_o.png" alt="image host"/>
+<p align="center"> 
+    <a href="https://x.com/jonetoooooooo"><img src="https://images2.imgbox.com/2e/b6/OPFJ5tIV_o.png" width="50%" height="50%"/> </a>
+    <img src="https://images2.imgbox.com/94/fa/ivDegeTP_o.png" width="50%" height="50%" alt="discord username"/>
+    <a href="https://www.youtube.com/channel/UCR7ycfqhic_bYwbA0zJCUNw"><img src="https://images2.imgbox.com/5e/ac/ZTxnCm6C_o.png" width="50%" height="50%"/> </a>
+
 <p align="center">
-    <a href="https://x.com/jonetoooooooo">Twitter</a> <a href="https://www.youtube.com/channel/UCR7ycfqhic_bYwbA0zJCUNw">Youtube</a> <a>Discord : joneto.</a>
-</p>
-<br>
-<br>
+    <a href="https://www.fiverr.com/gjoneto/create-a-custom-osu-skin-that-matches-your-style"><img src="https://images2.imgbox.com/81/90/HooFIGcJ_o.png" width="50%" height="50%"/> </a>
+
 <p align="center">
-  ---------------------------------------- + ---------------------------------------- + ----------------------------------------
-</p>
-<h1 align="center">Normal Skin</h1><br>
-<p align="center">From the Newest to Oldest</p>
-<p align="center">
-  ---------------------------------------- + ---------------------------------------- + ----------------------------------------
-</p>
+<img src="https://images2.imgbox.com/c6/ba/OQFMJOTU_o.png" alt="Normal Skin List"/>
+
 <br>
-<h1 align="center">------> ⌜Ellen Joe⌟ <------</h1>
-<h4 align="center">Standard & Mania</h4>
+<h2>VIII. Ellen Joe</h2>
+<h4 align="center">Standard & Mania | 16:9 </h4>
 <p align="center">
-<a href="https://osuck.link/s-3847?v=0">Link Download & Preview</a>
+<a href="https://osuck.link/s-3847?v=0"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
 </p>
 <br>
 
-<h1 align="center">------> ⌜Stargvze⌟ ⌈v2⌋ <------</h1>
-<h4 align="center">Circle, Arrow & Bar</h4>
+<h2>VII. Stargvze [V2]</h2>
+<h4 align="center">Mania | Circle, Arrow & Bar | 16:9 </h4>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=X3XehqX7Epg&t=16s">Link Download & Preview</a>
+<a href="https://www.youtube.com/watch?v=X3XehqX7Epg&t=16s"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
 </p>
 <br>
 
-<h1 align="center">------> ⌜ ◤◥ ⌟  <------</h1>
-<h4 align="center">Circle & Arrow</h4>
+<br>
+<h2>VI. ⌜ ◤◥ ⌟</h2>
+<h4 align="center">Mania | Circle & Arrow | 16:9 </h4>
 <p align="center">
-<a href="https://x.com/jonetoooooooo/status/1792963566649352341">Link Download & Preview</a>
+<a href="https://x.com/jonetoooooooo/status/1792963566649352341"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
 </p>
 <br>
 
-<h1 align="center">------> Yokina ¦ 陽気 ⌈All Modes⌋ - ⌈HD + SD⌋ <------</h1>
-<h4 align="center">All Modes Skin</h4>
-<p align="center">
-<a href="https://osu.ppy.sh/community/forums/topics/1878404?n=1">Link Download & Preview</a>
-</p>
 <br>
-
-<h1 align="center">------> S ♡ B E R <------</h1>
-<a href="https://imgbox.com/Bve2XF4l" target="_blank"><img src="https://images2.imgbox.com/1d/e9/Bve2XF4l_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/1LZfqp0C" target="_blank"><img src="https://images2.imgbox.com/5c/1c/1LZfqp0C_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/i1DJCCzy" target="_blank"><img src="https://images2.imgbox.com/13/5f/i1DJCCzy_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/P2o13nDZ" target="_blank"><img src="https://images2.imgbox.com/3e/00/P2o13nDZ_o.jpg" width="50%" height="50%" alt="image host"/></a>
-<h4 align="center">Circle</h4>
+<h2>V. Yokina ¦ 陽気</h2>
+<h4 align="center">All Modes | 16:9 </h4>
 <p align="center">
-<a href="https://www.mediafire.com/file/9xf8gs1y2iar9co/%25E2%2588%2598_S_%25E2%2599%25A1_B_E_R_%25E2%2588%2598.osk/file">Link</a>
+<a href="https://osu.ppy.sh/community/forums/topics/1878404?n=1"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
+</p>
+
+<br>
+<h2>IV. S ♡ B E R</h2>
+<img src="https://images2.imgbox.com/fa/a7/gL4hKK46_o.jpg"/>
+<h4 align="center">Mania | Circle | 16:9 </h4>
+<p align="center">
+<a href="https://www.mediafire.com/file/9xf8gs1y2iar9co/%25E2%2588%2598_S_%25E2%2599%25A1_B_E_R_%25E2%2588%2598.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
 </p>
     
 <br>
-
-<h1 align="center">------> Stvrgaze ⌈v1⌋ <------</h1>
-<a href="https://imgbox.com/VHYx1grk" target="_blank"><img src="https://images2.imgbox.com/d5/32/VHYx1grk_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/81kP9izB" target="_blank"><img src="https://images2.imgbox.com/53/30/81kP9izB_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/VQ6ryKyx" target="_blank"><img src="https://images2.imgbox.com/57/6e/VQ6ryKyx_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/JdZQsrn8" target="_blank"><img src="https://images2.imgbox.com/30/d9/JdZQsrn8_o.jpg" width="50%" height="50%" alt="image host"/></a>
-<h4 align="center">Arrow</h4>
+<h2>III. Stargvze [V1]</h2>
+<img src="https://images2.imgbox.com/cb/a3/KNySqha0_o.jpg"/>
+<h4 align="center">Mania | Arrow | 16:9 </h4>
 <p align="center">
-<a href="https://www.mediafire.com/file/vf02fm6jiy8odxp/-_Stargvze.osk/file">Link</a>
+<a href="https://www.mediafire.com/file/vf02fm6jiy8odxp/-_Stargvze.osk/file""><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
 </p>
 <br>
 
-<h1 align="center">------> Animated Playfield (Shooting star) <------</h1>
-<a href="https://imgbox.com/psFKbYDs" target="_blank"><img src="https://images2.imgbox.com/3c/3e/psFKbYDs_o.jpg" alt="image host"/></a>
-<h4 align="center">Circle</h4>
+<h2>II. Animated Playfield (Shooting Star)</h2>
+<a href="https://imgbox.com/psFKbYDs" target="_blank"><img src="https://images2.imgbox.com/3c/3e/psFKbYDs_o.jpg"/></a>
+<h4 align="center">Mania | 16:9 </h4>
 <p align="center">
-<a href="https://www.mediafire.com/file/9isctxxh91eobgw/Stargaze_Playfield.osk/file">Link</a>
+<a href="https://www.mediafire.com/file/9isctxxh91eobgw/Stargaze_Playfield.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
 </p>
 <br>
 
-<h1 align="center">------> gugigagu V2 <------</h1>
-<h4 align="center">Circle & Arrow</h4>
+<h2>I. gugigagu</h2>
+<img src="https://images2.imgbox.com/35/d0/Bw6Jd0PK_o.jpg"/>
+<h4 align="center">Mania | Circle & Arrow | 16:9 </h4>
+<p align="center"> Version 1</p>
 <p align="center">
-  I know, the arrows is awful <br>
- The only difference between the old ones, only the circle notes are recolored + color shift. <br> <br>
-<a href="https://www.mediafire.com/file/iimtsco9zflct0c/-_gugigagu_V2.osk/file">Link</a>
-</p>
-<br>
-
-<h1 align="center">------> gugigagu V1 <------</h1>
-<a href="https://imgbox.com/3WLW4o5N" target="_blank"><img src="https://images2.imgbox.com/a6/b1/3WLW4o5N_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/5YpFpMFt" target="_blank"><img src="https://images2.imgbox.com/0b/e4/5YpFpMFt_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/w5QzCYej" target="_blank"><img src="https://images2.imgbox.com/1a/39/w5QzCYej_o.jpg" width="50%" height="50%" alt="image host"/></a><a href="https://imgbox.com/fFlIz8XA" target="_blank"><img src="https://images2.imgbox.com/62/8e/fFlIz8XA_o.jpg" width="50%" height="50%" alt="image host"/></a>
-<h4 align="center">Circle & Arrow</h4>
-<p align="center">
-<a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file">Link</a>
-</p>
-<br>
-<br>
-<br>
+<a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
+<a href="https://www.mediafire.com/file/iimtsco9zflct0c/-_gugigagu_V2.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
+<h7 align="center">I know, the arrows is awful. The only difference between the old ones, only the circle notes are recolored + color shift.</h7>
 <br>
 
 <p align="center">
-  ---------------------------------------- + ---------------------------------------- + ----------------------------------------
-</p>
-<h1 align="center">Experimental Skin</h1><br>
-<p align="center">I didn't know the order, so I just threw randomly</p>
-<p align="center">
-  ---------------------------------------- + ---------------------------------------- + ----------------------------------------
-</p>
+<img src="https://images2.imgbox.com/f3/0d/ZdOiE4Hl_o.png" alt="Experimental Skin List"/>
 
 # [Spinning L](https://www.mediafire.com/file/5oli0zaip84acgm/%2528Spinning_L%2529.osk/file)
 https://github.com/jon666to/Test/assets/74059843/aa380870-8d0a-49b6-b4c9-b098d0858a81
