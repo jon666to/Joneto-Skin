@@ -14,6 +14,19 @@
 <p align="center">
 <img src="https://images2.imgbox.com/c6/ba/OQFMJOTU_o.png" alt="Normal Skin List"/>
 
+<h2>X. ホタル - Firefly </h2>
+<h4 align="center">All Modes | 16:9 </h4>
+<p align="center">
+<a href="https://skins.osuck.net/skins/3892?v=0"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
+</p>
+
+<br>
+<h2>IX. VOIDVEIL</h2>
+<h4 align="center">Standard, Taiko & Mania | 16:9 </h4>
+<p align="center">
+<a href="https://skins.osuck.net/skins/3889?v=0"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a>
+</p>
+
 <br>
 <h2>VIII. Ellen Joe</h2>
 <h4 align="center">Standard & Mania | 16:9 </h4>
@@ -97,8 +110,7 @@ https://github.com/jon666to/Test/assets/74059843/00487bfe-e157-4499-9d0b-5e94c9d
 # [Robeats idk](https://www.mediafire.com/file/4y9eolmch4qein7/Robeats+Typeshot.osk/file)
 https://github.com/jon666to/Test/assets/74059843/4ee1ae3e-e88f-4044-a2fd-1b1a35751eb5
 
-# [Staircase (circle)](https://drive.google.com/file/d/1UqQsIArLZMKG_tN_CL70rqESm2ouxqqO/view?usp=sharing)
-![screenshot450](https://github.com/jon666to/Joneto-Skin/assets/74059843/48488fa4-7b66-4857-919c-d6e6731a549a)
-  <p align="center">
-    From Jhleetgirl's video "[osu!mania4K] The Funniest Skin EVER"
-  </p>
+# Staircase
+<img src="https://images2.imgbox.com/77/24/Wx7GbUQd_o.png"/>
+<p align="center">
+<a href="https://drive.google.com/file/d/1UqQsIArLZMKG_tN_CL70rqESm2ouxqqO/view?usp=sharing"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
