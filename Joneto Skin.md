@@ -10,7 +10,8 @@
 
 <p align="center">
     <a href="https://www.fiverr.com/gjoneto/create-a-custom-osu-skin-that-matches-your-style"><img src="https://images2.imgbox.com/81/90/HooFIGcJ_o.png" width="50%" height="50%"/> </a>
-
+<p align="center">
+<img src="https://images2.imgbox.com/a1/e6/uPNwDFDV_o.png" alt="Gap"/>
 <p align="center">
 <img src="https://images2.imgbox.com/c6/ba/OQFMJOTU_o.png" alt="Normal Skin List"/>
 
@@ -89,9 +90,11 @@
 <p align="center">
 <a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
 <a href="https://www.mediafire.com/file/iimtsco9zflct0c/-_gugigagu_V2.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
-<h7 align="center">I know, the arrows is awful. The only difference between the old ones, only the circle notes are recolored + color shift.</h7>
+<h6 align="center">I know, the arrows is awful. The only difference between the old ones<br>only the circle notes are recolored + color shift.</h6>
 <br>
 
+<p align="center">
+<img src="https://images2.imgbox.com/a1/e6/uPNwDFDV_o.png" alt="Gap"/>
 <p align="center">
 <img src="https://images2.imgbox.com/f3/0d/ZdOiE4Hl_o.png" alt="Experimental Skin List"/>
 
