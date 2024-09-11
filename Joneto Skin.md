@@ -97,6 +97,14 @@
 <p align="center">
 <img src="https://images2.imgbox.com/f3/0d/ZdOiE4Hl_o.png" alt="Experimental Skin List"/>
 
+# Joneto's Experimental Skin (7K Version)
+<p align="center">
+<a href="https://x.com/jonetoooooooo/status/1830502452438958090"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
+
+# Joneto's Experimental Skin (4K Version)
+<p align="center">
+<a href="https://x.com/jonetoooooooo/status/1829638391782416842"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
+
 # [Spinning L](https://www.mediafire.com/file/5oli0zaip84acgm/%2528Spinning_L%2529.osk/file)
 https://github.com/jon666to/Test/assets/74059843/aa380870-8d0a-49b6-b4c9-b098d0858a81
 
