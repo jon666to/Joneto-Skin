@@ -86,10 +86,9 @@
 <h2>I. gugigagu</h2>
 <img src="https://images2.imgbox.com/35/d0/Bw6Jd0PK_o.jpg"/>
 <h4 align="center">Mania | Circle & Arrow | 16:9 </h4>
-<p align="center"> Version 1</p>
+<p align="center"> Version 1 & 2</p>
 <p align="center">
-<a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
-<a href="https://www.mediafire.com/file/iimtsco9zflct0c/-_gugigagu_V2.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
+<a href="https://www.mediafire.com/file/yo4n3dm1rfqahut/-_gugigagu_V1.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a> <a href="https://www.mediafire.com/file/iimtsco9zflct0c/-_gugigagu_V2.osk/file"><img src="https://images2.imgbox.com/88/3d/7GqVpFxm_o.png" width="50%" height="50%"/></a></p>
 <h6 align="center">I know, the arrows is awful. The only difference between the old ones<br>only the circle notes are recolored + color shift.</h6>
 <br>
 
