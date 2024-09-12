@@ -3,10 +3,10 @@
     <img src="https://images2.imgbox.com/51/99/hrlvaHPI_o.png" alt="image host"/>
 
 <img src="https://images2.imgbox.com/27/ad/owGENG2K_o.png" alt="image host"/>
-<p align="center"> 
-    <a href="https://x.com/jonetoooooooo"><img src="https://images2.imgbox.com/2e/b6/OPFJ5tIV_o.png" width="50%" height="50%"/> </a>
-    <img src="https://images2.imgbox.com/94/fa/ivDegeTP_o.png" width="50%" height="50%" alt="discord username"/>
-    <a href="https://www.youtube.com/channel/UCR7ycfqhic_bYwbA0zJCUNw"><img src="https://images2.imgbox.com/5e/ac/ZTxnCm6C_o.png" width="50%" height="50%"/> </a>
+<p align="center">
+<a href="https://x.com/jonetoooooooo"><img src="https://images2.imgbox.com/2e/b6/OPFJ5tIV_o.png" /> </a>
+<img src="https://images2.imgbox.com/94/fa/ivDegeTP_o.png" alt="discord username"/>
+<a href="https://www.youtube.com/channel/UCR7ycfqhic_bYwbA0zJCUNw"><img src="https://images2.imgbox.com/5e/ac/ZTxnCm6C_o.png"/> </a>
 
 <p align="center">
     <a href="https://www.fiverr.com/gjoneto/create-a-custom-osu-skin-that-matches-your-style"><img src="https://images2.imgbox.com/81/90/HooFIGcJ_o.png" width="50%" height="50%"/> </a>
